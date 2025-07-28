@@ -32,7 +32,7 @@ Cada pasta representa um **card** abordando um tema específico, com materiais c
 
 ## Tecnologias e Ferramentas Utilizadas
 
-- Python 🐍
+- Python 
 - Jupyter Notebooks 📓
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn
