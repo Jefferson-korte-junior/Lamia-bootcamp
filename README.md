@@ -25,7 +25,9 @@ Cada pasta representa um **card** abordando um tema específico, com materiais c
 | 11 | Pré-processamento de Dados |
 | 12 | Predição como Base do Aprendizado de Máquina |
 | 13 | Redes Neurais (Prática) |
-| 14 | Deep Learning |
+| 14 | Video Sobre oque e Deep Learning |
+| 15 | Pratica Redes Neurais Convulacionais 1 |
+| 16 | Pratica Redes Neurais Convulacionais 2 |
 
 
 ---
